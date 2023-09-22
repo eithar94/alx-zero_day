@@ -4,3 +4,5 @@ git commit -m""
 git push
 git branch update_script
 git checkout master
+git pull
+git merge
